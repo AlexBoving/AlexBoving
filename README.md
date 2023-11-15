@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Alexandre from Italy, and I do Web Development and Mobile applications. I really enjoy learning languages and frameworks like React and React Native. Besides of this, I'm really into AI technologies and would like to share some of my repos about it. Eventually, I wireframe ui, ux and design in general in my free time.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex1721)](https://github.com/anuraghazra/github-readme-stats)
