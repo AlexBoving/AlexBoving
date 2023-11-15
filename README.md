@@ -1,11 +1,11 @@
 ### Hi there 👋, Alexandre Boving
 #### Development
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm Alexandre from Italy, and I do Web development as well as design and implementations of Mobile Applications. I really enjoy learning languages and frameworks such as React and React Native. Besides of those occupations, I'm really into AI technologies and some of my related repos are available. Eventually, I also enjoy wireframing, ui, ux and design in general. 
 
 Skills: REACT NATIVE / REACT / JS / HTML / CSS / PYTHON / JAVA / C / C++ / MATLAB
 
-- 🔭 I’m currently working on My own project 
-- 🌱 I’m currently learning Next.js 
+- 🔭 I’m currently working on my own project 
+- 🌱 I’m currently learning Next.js
 - 🤔 I’m looking for help with Backend 
 
 
