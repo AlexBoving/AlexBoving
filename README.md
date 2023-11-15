@@ -11,7 +11,7 @@ I'm Alexandre from Italy, and I do Web development as well as design and impleme
 * C++
 * Matlab
 
-* <img src="{[BadgeURLHere](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)}" />
+* <img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
 
 
 
