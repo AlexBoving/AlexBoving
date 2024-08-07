@@ -6,7 +6,7 @@ I'm Alexandre from Italy, and I do web development as well as design and impleme
 
 ## Contact Me
 
-[<img src='[https://skillicons.dev/icons?i=html]' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexandre-boving-04422a1b6/)
+[<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexandre-boving-04422a1b6/)
 
 ## Statistics
 
