@@ -1,6 +1,6 @@
 # Alexandre Boving
 
-I am Alexandre, a Belgian/Italian software engineer with expertise across the entire software life cycle, from design and architecture to implementation, testing, and deployment. I excel in both front-end and back-end engineering, with a strong focus on building scalable, reliable, and efficient systems. I am deeply passionate about new AI technologies, and showcase related repositories. My work is driven by a commitment to innovation continous improvment, and delivering high-quality software/AI solutions tailored to user needs. 
+I am Alexandre, a Belgian/Italian software engineer with expertise across the entire software life cycle, from design and architecture to implementation, testing, deployment, and maintenance. I excel in both front-end and back-end engineering, with a strong focus on building scalable, reliable, and efficient systems. I am deeply passionate about new AI technologies, and showcase related repositories. My work is driven by a commitment to innovation continous improvment, and delivering high-quality software/AI solutions tailored to user needs. 
 
 I enjoy sports and social interactions because, at the end of the day, a computer is just a tool.
 
