@@ -10,5 +10,4 @@ I'm Alexandre from Italy/Belgium, and I do web development as well as design and
 
 ## Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexBoving)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBoving&layout=compact)
