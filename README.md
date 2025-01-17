@@ -1,5 +1,8 @@
 # Alexandre Boving
-I'm Alexandre from Italy/Belgium, and I do web development as well as design and implementations of mobile applications. I really enjoy learning languages and frameworks such as React and React Native. Besides of those occupations, I'm really into AI technologies and some of my related repos are available. Eventually, I also enjoy wireframing, ui, ux and design in general. 
+
+I am Alexandre, a Belgian/Italian software engineer with expertise across the entire software life cycle, from design and architecture to implementation, testing, and deployment. I excel in both front-end and back-end engineering, with a strong focus on building scalable, reliable, and efficient systems. I am deeply passionate about new AI technologies, and showcase related repositories. My work is driven by a commitment to innovation continous improvment, and delivering high-quality software/AI solutions tailored to user needs. 
+
+I enjoy sports and social interactions because, at the end of the day, a computer is just a tool.
 
 ## Skills and Experience
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,ts,mysql,mongodb,firebase,py,java,c,matlab,git,github,docker,linux,figma)](https://skillicons.dev)
