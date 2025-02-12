@@ -4,7 +4,7 @@ I am Alexandre, a Belgian/Italian software engineer and AI enthusiast with exper
 
 My work blends traditional software development with AI innovation, leveraging machine learning and deep learning to enhance automation, decision-making, and intelligent applications. I actively contribute to AI research and showcase related repositories, exploring cutting-edge advancements in neural networks, computer vision, and NLP.
 
-I enjoy sports and social interactions because, at the end of the day, a computer—whether running software or AI—is just a tool.
+I enjoy sports and social interactions >>> computers.
 
 ## Skills and Experience
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,ts,mysql,mongodb,firebase,py,java,c,matlab,git,github,docker,linux,figma)](https://skillicons.dev)
