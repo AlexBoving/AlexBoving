@@ -7,7 +7,7 @@ My work blends traditional software development with AI innovation, leveraging m
 I enjoy sports and social interactions >>> computers.
 
 ## Skills and Experience
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,ts,mysql,mongodb,py,java,c,matlab,git,github,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,mysql,mongodb,py,java,c,matlab,git,github,docker,linux)](https://skillicons.dev)
 
 ## Contact Me
 
